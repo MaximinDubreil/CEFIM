@@ -1,6 +1,0 @@
-# Présentation-CEFIM
-Bonjour,
-Je m'appelle Maximin Dubreil, j'ai 22 ans.
-J'ai tout d'abord commencé mes études supérieures en intégrant le parcours PeiP de Polytech'. Mais je n'ai pas pu continuer suite a un problème de santé.
-J'ai ensuite continué ma license de physique mais je n'est pas réussis a validé la deuxième année. Je cherche aujourd'hui une formation en informatique.
-J'ai de bonnes bases en programation et un bon niveaux en mathématiques grâces a mes études. J'ai codé en arduino, python, java et un peu d'html. 
